@@ -1,28 +1,19 @@
-a:link {
-    color: black;
-    background-color: transparent;
+a {
+    color: #145BCD;
     text-decoration: none;
-}
-a:visited {
-    color: blue;
-    background-color: transparent;
-    text-decoration: none;
-}
+  }
 a:hover {
-    color: black;
-    background-color: transparent;
-    text-decoration: underline;
-}
-a:active {
-    color: black;
-    background-color: transparent;
-    text-decoration: underline;
-}
+    color: #F2A51B;
+    text-decoration: none;
+  }
 .center {
     text-align:center;
 }
 .double_spaced {
     line-height: 2.5;
+}
+h1 {
+    text-align:center;
 }
 h2 {
     text-align:center;
