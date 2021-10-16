@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy&display=swap');
 a {
-    /*color: #1CD3FF;*/
     color:#145BCD;
     text-decoration: none;
   }
@@ -34,7 +33,4 @@ h1 {
 }
 h2 {
     text-align:center;
-}
-body {
-    /*background-color:#F88787;*/
 }
