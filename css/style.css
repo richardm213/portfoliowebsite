@@ -1,20 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy&display=swap');
 a {
-    color: #145BCD;
+    /*color: #1CD3FF;*/
+    color:#145BCD;
     text-decoration: none;
   }
 a:hover {
     color: #F2A51B;
     text-decoration: none;
   }
+div {
+    font-family: 'Cormorant Garamond', serif;
+}
+.text1 {
+    border: 1px solid black;
+    padding: 8px;
+    width: 500px;
+    background-color: white;
+    text-indent: 30px;
+}
 .center {
-    text-align:center;
+    text-align:center;    
 }
 .double_spaced {
     line-height: 2.5;
 }
 h1 {
     text-align:center;
+    font-family: 'Cormorant Garamond', serif;
 }
 h2 {
     text-align:center;
+}
+body {
+    /*background-color:#F88787;*/
+    
 }
